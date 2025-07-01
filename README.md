@@ -1,4 +1,4 @@
-# Kakao Cloud 3-Tier Architecture with Terraform
+# Kakao Cloud 2-Tier Architecture with Terraform
 
 ## 전체 구성도
 ![arch.png](img/arch.png)
