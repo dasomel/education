@@ -1,5 +1,8 @@
 # Kakao Cloud 3-Tier Architecture with Terraform
 
+## 전체 구성도
+![arch.png](img/arch.png)
+
 ## 0. 사전 준비(Pre-requisites)
 
 ### 0-1. 액세스 키 및 시크릿 키 준비
